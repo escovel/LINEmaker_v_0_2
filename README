@@ -1,0 +1,30 @@
+/*
+ * LINEmaker  ||  v. 0.2 
+ *
+ * [DESCRIPTION]
+ * A program for interactive composition of visual poems. Condense and expand
+ * a single line of characters, then add transparency for visual effect.
+ *
+ * [OVERVIEW]
+ * Click on the text field to add characters to the poem. Move the mouse from 
+ * left to right to expand/contract the text. Move the mouse up and down to
+ * adjust transparency.
+ *
+ * Press CTRL at any time to save your poem as PDF and PNG files. They will be 
+ * saved to the main program directory.
+ * 
+ * 
+ * [MOUSE INTERACTION] 
+ * Vertical (Y)           : adjust character spacing | 
+ * Horizontal (X)         : adjust character alpha value (transparency) | 
+ * 
+ * [INPUT TEXT FIELD] 
+ * A-Z, 1-0, Punc.        : text input (keyboard) | 
+ * RIGHT AND LEFT ARROWS  : move forwards and backwards in your text to edit |
+ * BACKSPACE              : deletes the character preceeding the text cursor |
+ * ENTER                  : clears all text from screen and textfield |
+ *
+ * [SAVE POEM]
+ * CTRL                   : saves current display as both PDF and PNG to the 
+ *                          program's main folder |
+ */
