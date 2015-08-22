@@ -27,4 +27,18 @@
  * [SAVE POEM]
  * CTRL                   : saves current display as both PDF and PNG to the 
  *                          program's main folder |
+ * 
+ * [APPLICATION DOWNLOADS]
+ * 
+ * I have compiled standalone Java applications Linux and Windows. Simply download
+ * the folder for you system architecture and open the executable file specified
+ * in the table below to run the program. 
+ * 
+ *  ============================================================================
+ * ||______SYSTEM______|_____DOWNLOAD_FOLDER_____|__EXECUTABLE_FILE____________||
+ * ||  Linux 32 bit    |  application.linux32    |  LINEmaker_v_0_2_FINAL      ||
+ * ||  Linux 64 bit    |  application.linux64    |  LINEmaker_v_0_2_FINAL      ||
+ * ||  Windows 32 bit  |  application.windows32  |  LINEmaker_v_0_2_FINAL.exe  ||
+ * ||  Windows 64 bit  |  application.windows64  |  LINEmaker_v_0_2_FINAL.exe  ||
+ *  ============================================================================
  */
